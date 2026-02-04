@@ -48,7 +48,7 @@ Fiona==1.8.13
 future==0.18.2
 gast==0.2.2
 geographiclib==1.50
-geopandas==0.6.2
+geopandas==1.1.2
 geopy==1.20.0
 google-pasta==0.1.7
 googletransx==2.4.2
@@ -98,7 +98,7 @@ multidict==4.7.5
 munch==2.5.0
 murmurhash==1.0.2
 nb-black==1.0.7
-nbconvert==5.6.1
+nbconvert==7.17.0
 nbformat==4.4.0
 networkx==2.2
 notebook==6.0.2
@@ -122,7 +122,7 @@ preshed==3.0.2
 pretrainedmodels==0.7.4
 prometheus-client==0.7.1
 prompt-toolkit==3.0.2
-protobuf==3.8.0
+protobuf==6.33.5
 ptyprocess==0.6.0
 py==1.8.1
 pycares==3.1.1
@@ -182,7 +182,7 @@ thinc==7.3.1
 tifffile==2020.2.16
 tokenizers==0.0.11
 toml==0.10.0
-torch==1.4.0
+torch==2.10.0
 torchvision==0.5.0
 tornado==6.0.3
 tqdm==4.41.1
